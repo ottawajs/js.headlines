@@ -3,7 +3,7 @@ JS.Hedaline()
 November 2012
 -------------
 * List of javascript related software updates
-	* ECMAScript 6 is going to have classes. Is the debate on prototype vs class inheritance even an issue? The ES.next WG Incorporated Class definition semantic in their working Draft last september. (wiki.ecmascript.org/doku.php?id=harmony:specification_drafts)
+	* ECMAScript 6 is going to have classes. Is the debate on prototype vs class inheritance even an issue? The ES.next WG Incorporated Class definition semantic in their working Draft last september. (http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts)
 	* Microsoft Previews New Javascript-Like Programming Language TypeScript. TypeScript has a syntaxt that is very similar to Javascript but add features, such as optimal static typing, that Microsoft says that will make it easier for developers to build larger application. Head over the [Channel 9 video](http://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript) section for an introduction by the father of C#; Anders Hejlsberg.
 	* Express 3.0 is finally out of alpha and add a lot of new command (https://github.com/visionmedia/express/wiki/New-features-in-3.x)
 
