@@ -1,4 +1,4 @@
-JS.Headline()
+JS.Headlines()
 =============
 November 2012
 -------------
