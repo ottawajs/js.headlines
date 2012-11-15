@@ -19,5 +19,9 @@ November 2012
 	* Keeping it Realtime Conference Videos are out (http://2012.realtimeconf.com/video/index)
 	* Javazone with Christian Johansen - [Pure Functional Javascript](http://vimeo.com/49384334)
 	* [Bret Victor's Inventing on Priniciple](http://youtu.be/PUv66718DII)
+
 * Local announcements
+	* Check out our web page at (http://ottawajs.org)
+	* Google Group We have a Google Group & mailing list at (http://groups.google.com/group/ottawa-javascript)
+	* Google+ Page We have a Google+ page at this url: (http://plus.google.com/118390499945250943795) or you can use the more convenient and memorable: (http://ottawajs.org/+)
 * Upcoming book releases
