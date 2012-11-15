@@ -1,4 +1,4 @@
-JS.Hedaline()
+JS.Headline()
 =============
 November 2012
 -------------
@@ -9,13 +9,13 @@ November 2012
 
 * Upcoming/past conferences
 	* [Montreal Digital Festival] (http://mtldgtl.com/) November 12 - 15 2012
-	* Confoo - Wbe Techno Conference February 25 - March 1, 2013 with [14 sessions totally devoted to javascript](confoo.ca/en/2013/session)
+	* Confoo - Web Techno Conference February 25 - March 1, 2013 with [14 sessions totally devoted to javascript](confoo.ca/en/2013/session)
 
-* List of awesome javascript related talks available on audio/video
+* List of 
 	* nodeknockout online hackathon (http://nodeknockout.com/)
 	* Paul Irish - Javascript Development Workflow Of 2013 (http://youtu.be/f7AU2Ozu8eo)
 	* WebShaped Conference Videos are out! Check out Lea Verou on Regex (http://vimeo.com/49446079)
-	* JSConf EU Videos are out as well - Notable presentation [JavaScript is the new Punk Rock by Stuart Memo](http://youtu.be/PN8Eg1K9xjE). Star Trek fan prepare to be blown away at approx. 7:50!
+	* JSConf EU Videos are out as well - Notable presentation [JavaScript is the new Punk Rock by Stuart Memo](http://youtu.be/PN8Eg1K9xjE). Star Trek fan prepare to be blown away at approx. 6:15!
 	* Keeping it Realtime Conference Videos are out (http://2012.realtimeconf.com/video/index)
 	* Javazone with Christian Johansen - [Pure Functional Javascript](http://vimeo.com/49384334)
 	* [Bret Victor's Inventing on Priniciple](http://youtu.be/PUv66718DII)
