@@ -19,6 +19,5 @@ November 2012
 	* Keeping it Realtime Conference Videos are out (http://2012.realtimeconf.com/video/index)
 	* Javazone with Christian Johansen - [Pure Functional Javascript](http://vimeo.com/49384334)
 	* [Bret Victor's Inventing on Priniciple](http://youtu.be/PUv66718DII)
-	* nodeknockout (http://nodeknockout.com/): online hackathon 
 * Local announcements
 * Upcoming book releases
