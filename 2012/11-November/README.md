@@ -11,7 +11,7 @@ November 2012
 	* [Montreal Digital Festival] (http://mtldgtl.com/) November 12 - 15 2012
 	* Confoo - Web Techno Conference February 25 - March 1, 2013 with [14 sessions totally devoted to javascript](confoo.ca/en/2013/session)
 
-* List of 
+* List of awesome talks
 	* nodeknockout online hackathon (http://nodeknockout.com/)
 	* Paul Irish - Javascript Development Workflow Of 2013 (http://youtu.be/f7AU2Ozu8eo)
 	* WebShaped Conference Videos are out! Check out Lea Verou on Regex (http://vimeo.com/49446079)

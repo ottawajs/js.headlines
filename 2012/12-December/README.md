@@ -1,1 +1,6 @@
-#JS.Hedaline()==============##December 2012No news yet!
+#JS.Hedaline()
+==============
+##December 2012
+* Past conferences
+  * HTML5DevConf
+  * 
