@@ -2,9 +2,9 @@ var app = require('http').createServer(handler)
   , fs = require('fs')
   , path = require('path')
   , url = require('url')
-  ,mime=require('mime')
+  , mime = require('mime')
 
-app.listen(80);
+app.listen(8080);
 function handler (req, res) {
 	var uri = url.parse(req.url).pathname;
 	if(uri=='/'){
