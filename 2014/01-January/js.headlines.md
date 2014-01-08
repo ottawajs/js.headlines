@@ -4,8 +4,6 @@ Welcome to another year of JS Headlines!
 
 * Thoughtworks technology radar. From 2013 but still good. [http://www.thoughtworks.com/radar](http://www.thoughtworks.com/radar)
 * 2013 JavaScript Developer Survey results [http://dailyjs.com/2013/12/12/javascript-survey-results/](http://dailyjs.com/2013/12/12/javascript-survey-results/)
-* JSConf Asia ([http://2013.jsconf.asia/#about](http://2013.jsconf.asia/#about)) videos are online [http://www.youtube.com/playlist?list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_](http://www.youtube.com/playlist?list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_)
-* The one from Mr Doob looks fun [http://www.youtube.com/watch?v=n4Av-ClXCYU&list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_&index=19](http://www.youtube.com/watch?v=n4Av-ClXCYU&list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_&index=19)
 * Orbit Viewer (Chrome only) - is a cool webgl chrome experiment. [http://orbits.wthr.us/](http://orbits.wthr.us/)
 * Daily JS posted an interesting piece on recipes for Express configuration files. [http://dailyjs.com/2014/01/02/recipe-for-express-configuration/](http://dailyjs.com/2014/01/02/recipe-for-express-configuration/)
 
@@ -22,6 +20,11 @@ These are really cool since they are packaged apps for the desktop that run on n
 * Haroo Pad - The Markdown enabled Next Document Processor [http://pad.haroopress.com/](http://pad.haroopress.com/)
 * Hyro - A real-time HTML5 editor [http://jawerty.github.io/Hyro/](http://jawerty.github.io/Hyro/)
 * node-webkit - Tool used to build standalone Node packaged apps [https://github.com/rogerwang/node-webkit](https://github.com/rogerwang/node-webkit)
+
+## Video
+
+* JSConf Asia ([http://2013.jsconf.asia/#about](http://2013.jsconf.asia/#about)) videos are online [http://www.youtube.com/playlist?list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_](http://www.youtube.com/playlist?list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_)
+* Mr Doob Frame.JS - [http://www.youtube.com/watch?v=n4Av-ClXCYU&list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_&index=19](http://www.youtube.com/watch?v=n4Av-ClXCYU&list=PL37ZVnwpeshHQ1_r4DyrIqonICtMg3ol_&index=19)
 
 ## Conferences
 
