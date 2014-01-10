@@ -15,8 +15,9 @@ To serve presentations online, please do the following:
     ```
   * Merge your trunk changes into the gh-pages branch
     ```
-    git branch gh-pages
+    git checkout gh-pages
     git merge origin master
     git push origin gh-pages
+    git checkout master
     ```
   * Visit http://ottawajs.github.io/js.headlines
