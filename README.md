@@ -13,7 +13,7 @@ Generally, you should include an "index.html" file as a starting point for the p
 To serve presentations online, please do the following:
   * Edit the index.html file to include a link to your presentation:
     ```
-     <a href="/2014/01-Feburary">February 2014 JS Headlines</a><br>
+     <a href="/2014/01-Feburary/js.headlines.md">February 2014 JS Headlines</a><br>
     ```
   * Commit all of your trunk changes
     ```
