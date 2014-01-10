@@ -8,6 +8,8 @@ Please keep all presentations "self-contained" in their own directory, ie.
   * 2014/02-February/
   * etc.
 
+Generally, you should include an "index.html" file as a starting point for the presentation.
+
 To serve presentations online, please do the following:
   * Edit the index.html file to include a link to your presentation:
     ```
