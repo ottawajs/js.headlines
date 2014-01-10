@@ -13,6 +13,12 @@ To serve presentations online, please do the following:
     ```
      <a href="/2014/01-Feburary">February 2014 JS Headlines</a><br>
     ```
+  * Commit all of your trunk changes
+    ```
+    git commit -a
+
+    git push origin master
+    ```
   * Merge your trunk changes into the gh-pages branch
     ```
     git checkout gh-pages
