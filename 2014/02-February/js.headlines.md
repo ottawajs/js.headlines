@@ -4,3 +4,4 @@ Darren - dropping some candidate links here. Use if you like them.
   * http://www.chris-granger.com/2014/01/07/light-table-is-open-source/
   * http://www.frida.re/
   * http://autographer.github.io/args.js/
+  * http://www.kimonolabs.com/
