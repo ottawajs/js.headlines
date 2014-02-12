@@ -7,15 +7,16 @@
 
 ##A shout out to our great community
 
-We are now over 500 members on [meetup.com](http://www.meetup.com/Ottawa-JavaScript/)! Thank you all for continuing to make our community so vibrant and supportive. We are very much driven by our community so if you would like to contribute a talk then please visit [http://ottawajs.org/](http://ottawajs.org/)
+We are now over 500 members on [meetup.com](http://www.meetup.com/Ottawa-JavaScript/)! Thank you all for continuing to make our community so vibrant and supportive. We are very much driven by our community so if you would like to contribute a talk then please visit [http://ottawajs.org/](http://ottawajs.org/) for all the ways to get in contact with us.
 
 ##Interesting things
 
-  * https://moot.it/riotjs/docs/
-  * http://www.chris-granger.com/2014/01/07/light-table-is-open-source/
-  * http://www.frida.re/
-  * http://autographer.github.io/args.js/
-  * http://www.kimonolabs.com/
+  * [riot.js](https://moot.it/riotjs/docs/) A small lightweight MV* library.
+  * [Light Table](http://www.chris-granger.com/2014/01/07/light-table-is-open-source/) Light Table, a really cool code editor, is now open source!
+  * [frida](http://www.frida.re/) Inject JavaScript to explore native apps on Windows, Mac, Linux and iOS.
+  * [args.js](http://autographer.github.io/args.js/) A really cool library for specifying arguments (defaults, required, type) in JS functions.
+  * [kimono](http://www.kimonolabs.com/) Service for easily turning websites into structured APIs from your browser in seconds.
+  * [Chromium Dashboard](http://www.chromestatus.com/features) Check out what features are coming down the pipeline in the Chromium (Chrome) browser.
 
 ##jQueryTO
 
