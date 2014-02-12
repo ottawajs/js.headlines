@@ -17,6 +17,7 @@ We are now over 500 members on [meetup.com](http://www.meetup.com/Ottawa-JavaScr
   * [args.js](http://autographer.github.io/args.js/) A really cool library for specifying arguments (defaults, required, type) in JS functions.
   * [kimono](http://www.kimonolabs.com/) Service for easily turning websites into structured APIs from your browser in seconds.
   * [Chromium Dashboard](http://www.chromestatus.com/features) Check out what features are coming down the pipeline in the Chromium (Chrome) browser.
+  * [AngularJS Conference](http://www.youtube.com/user/ngconfvideos) NG-Conf 2014 conference videos are up, and fantastic.
 
 ##jQueryTO
 
