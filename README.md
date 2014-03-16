@@ -32,9 +32,8 @@ To serve presentations online, please do the following:
     git checkout master
 
     ```
-  * Convert your .md file into html
+  * Convert your .md file into reveal.js html
   ```
-  node node_modules/markx/bin/markx.js 03-March/js.headlines.md --template month-template.html --data month-data
-.json > 2014/03-March/index.html
-```
+
+  ```
   * Visit http://ottawajs.github.io/js.headlines
