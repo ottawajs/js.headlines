@@ -6,6 +6,9 @@
 
 ##Good to Know
 
+###Speaking JavaScript
+[Speaking JavaScript](http://speakingjs.com/es5/index.html) has a free version online for all to read.
+
 ###Threats to Jode.js Web Applications
 [Top Overlooked Security Threats](https://speakerdeck.com/ckarande/top-overlooked-security-threats-to-node-dot-js-web-applications)
   - How configure a defensive application server
