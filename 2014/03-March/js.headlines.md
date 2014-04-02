@@ -39,7 +39,7 @@
   
 ###React 0.9 Released
   * JS library for building UIs, made by Facebook
-  * Been gathering ome good momentum
+  * Been gathering some good momentum
   * Known for being quite performant
   * Some New Things:
   1. Better Cross Browser Support
