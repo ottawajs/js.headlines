@@ -7,12 +7,11 @@
 
 ##Good to Know
 
-###TITLE
-[LINK TEXT](Link) Link Description
-  - Bullet 1
-  - Bullet 2
+- [Debugging async JS](http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/)
 
 ##Releases
+
+- [Meteor v0.8](https://www.meteor.com/blog/2014/03/27/meteor-080-introducing-blaze?utm_source=javascriptweekly&utm_medium=email)
 
 ##Videos to Watch
 
