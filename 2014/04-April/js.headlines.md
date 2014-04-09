@@ -1,7 +1,7 @@
 #JS Headlines April 2014
 
 ##A huge thank you to our sponsors!
-![OttawaJS sponsors: Shopify, CanvasPop, Toushay, and Teldio](http://ottawajs.org/js.headlines/img/ottawajs_sponsors.png)
+![OttawaJS sponsors: Shopify, CanvasPop, Toushay, and Teldio](http://ottawajs.org/js.headlines/img/ottawajs_sponsors_v02.png)
 
 ### Thanks to Magmic for sponorsing this month's food & beverage!
 
