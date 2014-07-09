@@ -19,6 +19,8 @@
 
 - [Microsoft JS Cryptography v1.01](http://research.microsoft.com/en-us/downloads/29f9385d-da4c-479a-b2ea-2a7bb335d727/default.aspx) - Microsoft Research has released v1.01 of their JavaScript Cryptography Library. Supports IE 8,9,10,11, latest FF, Chrome, Opera, and Safari.
 
+- [Ember 1.6](http://emberjs.com/blog/2014/07/07/ember-1-6-0-and-ember-1-7-0-beta-released.html) - Has now been converted to the new ES6 modules.
+
 ##Videos to Watch
 
 - [GUI based Apps with Node](http://vimeo.com/97881078) - High level look at creating GUI based apps with Node, such as node-webkit or Atom’s atom-shell.
@@ -26,6 +28,10 @@
 - [5 Minutes of JavaScript](http://five-js.envylabs.com/) - Weekly podcast of the latest news in the JavaScript library.
 
 ##Community
+
+###NodeBots 2014 : July 27
+
+[NodeBots Day](https://www.eventbrite.com/e/nodebots-day-ottawa-tickets-12071479119?ref=estw) - Not a hackathon, just a good 'ol fasioned hack day with LOTS of JavaScript.
 
 ###CodeFest 2014 : August 14-15
 
