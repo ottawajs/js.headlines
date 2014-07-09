@@ -9,13 +9,15 @@
 
 - [Introduction to Angular](http://www.ng-newsletter.com/posts/how-to-learn-angular.html) - An in-depth introduction to AngularJS. Starts with reason behind using something like Angular, and goes through demos.
 
-- [Don't juse Latest JQuery'](http://blog.jquery.com/2014/07/03/dont-use-jquery-latest-js/) - Issues with repository that provides jquery-latest.js 
+- [Don't juse Latest JQuery](http://blog.jquery.com/2014/07/03/dont-use-jquery-latest-js/) - Issues with repository that provides jquery-latest.js 
 
 - [CDNperf](http://www.cdnperf.com/) - A webpage dedicated to finding fast and reliable JavaScript content delivery networks (CDN).
 
 - [Internationalization through CSS](http://www.smashingmagazine.com/2014/06/23/css-driven-internationalization-in-javascript/) - Looking to do Internationalization of your web-app, try doing it through CSS.
 
 - [RiotJS](https://github.com/muut/riotjs) - Fast 1kb client side MVP library for building large scale web applications. Only has 3 public methods!
+
+- [Presentation API](http://html5hub.com/presentation-api-tutorial/?utm_source=html5weekly&utm_medium=email) - It's a W3C spec draft for secondary display support for the Web.
 
 ##Releases
 
